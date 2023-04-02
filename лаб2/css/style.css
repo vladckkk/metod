@@ -1,0 +1,76 @@
+.first__table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+.first__table-td {
+	border: 1px solid #000;
+}
+
+.second__table {
+	border-collapse: collapse;
+}
+
+.second__table-td {
+	border-right: 1px solid #000;
+	border-left: 1px solid #000;
+}
+
+.third__table {
+	border-collapse: collapse;
+}
+
+.third__table-td {
+	border-right: 1px solid #000;
+	border-left: 1px solid #000;
+	padding: 5px 10px;
+}
+
+.fourth__table {
+	border-collapse: collapse;
+	border: 1px solid #000;
+}
+
+.fourth__table-td {
+	border-right: 1px solid #000;
+	padding: 5px 10px;
+}
+
+.fourth__table-th {
+	border: 1px solid #000;
+	padding: 10px;
+}
+
+.five__table {
+	/*border-right: 1px solid #000;
+	border-left: 1px solid #000;
+	border-bottom: 1px solid #000;*/
+	border-collapse: collapse;
+}
+
+.five__table-td {
+	border: 1px solid #000;
+	padding: 10px;
+}
+
+.five__table-th {
+	/*border: 1px solid #000;*/
+	border-right: 1px solid #fff;
+	border-left: 1px solid #fff;
+	padding: 10px;
+}
+
+.sixth__table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+.sixth__table-td {
+	border: 1px solid #000;
+	padding: 10px;
+}
+
+.sixth__table-th {
+	border: 1px solid #000;
+	padding: 10px;
+}
